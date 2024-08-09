@@ -1,8 +1,6 @@
 ## Bem vindos ao meu perfil!  💜
 
-
- -Meu nome é Maria Eduarda Lopes.⛅
--Estou no 1 ano do ensino médio, e estudo na escola berreta, e na platarforma Alura
+- Estou no 1 ano do ensino médio, estudando na Alura.🌸
 - Estou me desenvolvendo na linguagem JavaScript.
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos🦋
  
